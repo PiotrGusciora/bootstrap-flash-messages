@@ -2,7 +2,7 @@
   "name": "bootstrap-flash-messages",
   "version": "1.0.0",
   "description": "Responsive Flash messages built with the latest Bootstrap 5. Flash messages provide contextual feedback informations for typical user actions with a handful of responsible and flexible messages boxes.",
-  "main": "",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
