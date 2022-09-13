@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-flash-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Flash messages built with the latest Bootstrap 5. Flash messages provide contextual feedback informations for typical user actions with a handful of responsible and flexible messages boxes.",
   
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-flash-messages.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-flash-messages.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-flash-messages/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-flash-messages/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/flash-messages/"
 }
