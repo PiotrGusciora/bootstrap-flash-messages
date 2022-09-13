@@ -1,7 +1,7 @@
 
 Responsive Flash messages built with the latest Bootstrap 5. Flash messages provide contextual feedback informations for typical user actions with a handful of responsible and flexible messages boxes.
 
-Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standard/extended/flash-messages) for detailed instructions & even more examples.
+Check out [Bootstrap Flash messages Documentation](https://mdbootstrap.com/docs/standard/extended/flash-messages) for detailed instructions & even more examples.
 
 ## Basic examples
 
@@ -21,13 +21,13 @@ Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standar
 ## More examples
 
 [Bootstrap Flash messages static examples:
-![Bootstrap 5 Avatar](/assets/static-examples.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages/#section-static-example)
+![Bootstrap 5 Flash messages](/assets/static-examples.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages/#section-static-example)
 
 [Bootstrap Flash messages icons:
-![Bootstrap 5 Avatar](/assets/icons.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages/#section-icons)
+![Bootstrap 5 Flash messages](/assets/icons.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages/#section-icons)
 
 [Bootstrap Flash messages dismissing:
-![Bootstrap 5 Avatar](/assets/dismissing.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages#section-dismissing)
+![Bootstrap 5 Flash messages](/assets/dismissing.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages#section-dismissing)
 
 ___
 
