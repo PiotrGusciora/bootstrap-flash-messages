@@ -6,7 +6,7 @@ Check out [Bootstrap Flash messages Documentation](https://mdbootstrap.com/docs/
 ## Basic examples
 
 [Bootstrap Flash messages:
-![Bootstrap 5 Flash messages](/assets/basic-examples.png)](https://mdbootstrap.com/docs/standard/extended/vertical-navbar/#section-basic-example)
+![Bootstrap 5 Flash messages](/assets/basic-examples.png)](https://mdbootstrap.com/docs/standard/extended/flash-messages/#section-basic-example)
 
 ## How to use?
 
